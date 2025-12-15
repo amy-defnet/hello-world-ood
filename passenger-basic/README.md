@@ -1,0 +1,1 @@
+Assumes a Python virtual environment named ".venv" is available from `$(pwd)/.venv`. If using a different environment set-up, edit `bin/python` appropriately.

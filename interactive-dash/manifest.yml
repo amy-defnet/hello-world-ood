@@ -1,0 +1,6 @@
+name: interactive-dash
+category: Interactive Apps
+subcategory: Servers
+role: batch_connect
+description: |
+    Example Hello World Dash Interactive application

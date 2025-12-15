@@ -1,0 +1,5 @@
+name: interactive-basic
+category: Interactive Apps
+role: batch_connect
+description: |
+    Example Hello World Interactive application
